@@ -1,0 +1,108 @@
+31-03-2019 17:29:59 DEBUG logging:19 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+31-03-2019 17:29:59 INFO  Version:30 - HV000001: Hibernate Validator 5.4.1.Final
+
+31-03-2019 17:29:59 DEBUG DefaultTraversableResolver:103 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+
+31-03-2019 17:29:59 DEBUG DefaultTraversableResolver:114 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+
+31-03-2019 17:29:59 DEBUG ConfigurationImpl:163 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+
+31-03-2019 17:29:59 DEBUG ConfigurationImpl:185 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+
+31-03-2019 17:29:59 DEBUG ConfigurationImpl:199 - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+
+31-03-2019 17:29:59 DEBUG ValidationXmlParser:103 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+
+31-03-2019 17:29:59 DEBUG ResourceLoaderHelper:51 - Trying to load META-INF/validation.xml via user class loader
+
+31-03-2019 17:29:59 DEBUG ResourceLoaderHelper:58 - Trying to load META-INF/validation.xml via TCCL
+
+31-03-2019 17:29:59 DEBUG ResourceLoaderHelper:64 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+
+31-03-2019 17:29:59 DEBUG ValidationXmlParser:110 - No META-INF/validation.xml found. Using annotation based configuration only.
+
+31-03-2019 17:30:00 DEBUG DefaultTraversableResolver:103 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+
+31-03-2019 17:30:00 DEBUG DefaultTraversableResolver:114 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+
+31-03-2019 17:30:00 DEBUG ConfigurationImpl:163 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+
+31-03-2019 17:30:00 DEBUG ConfigurationImpl:185 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+
+31-03-2019 17:30:00 DEBUG ConfigurationImpl:199 - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+
+31-03-2019 17:30:00 DEBUG ValidationXmlParser:103 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+
+31-03-2019 17:30:00 DEBUG ResourceLoaderHelper:51 - Trying to load META-INF/validation.xml via user class loader
+
+31-03-2019 17:30:00 DEBUG ResourceLoaderHelper:58 - Trying to load META-INF/validation.xml via TCCL
+
+31-03-2019 17:30:00 DEBUG ResourceLoaderHelper:64 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+
+31-03-2019 17:30:00 DEBUG ValidationXmlParser:110 - No META-INF/validation.xml found. Using annotation based configuration only.
+
+31-03-2019 17:30:01 DEBUG UserController:26 - Debug Message!!!!!!!!!!!!!!
+
+31-03-2019 17:30:01 INFO  UserController:27 - Info Message!!!!!!!!!!!!!!
+
+31-03-2019 17:30:01 WARN  UserController:28 - Warn Message!!!!!!!!!!!!!!
+
+31-03-2019 17:30:01 ERROR UserController:29 - Error Message!!!!!!!!!!!!!!
+
+31-03-2019 17:30:01 FATAL UserController:30 - Fatal Message!!!!!!!!!!!!!!
+
+31-03-2019 17:31:35 DEBUG UserController:26 - Debug Message!!!!!!!!!!!!!!
+
+31-03-2019 17:31:35 INFO  UserController:27 - Info Message!!!!!!!!!!!!!!
+
+31-03-2019 17:31:35 WARN  UserController:28 - Warn Message!!!!!!!!!!!!!!
+
+31-03-2019 17:31:35 ERROR UserController:29 - Error Message!!!!!!!!!!!!!!
+
+31-03-2019 17:31:35 FATAL UserController:30 - Fatal Message!!!!!!!!!!!!!!
+
+31-03-2019 18:08:40 DEBUG logging:19 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+31-03-2019 18:08:40 INFO  Version:30 - HV000001: Hibernate Validator 5.4.1.Final
+
+31-03-2019 18:08:40 DEBUG DefaultTraversableResolver:103 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+
+31-03-2019 18:08:40 DEBUG DefaultTraversableResolver:114 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:163 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:185 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:199 - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+
+31-03-2019 18:08:40 DEBUG ValidationXmlParser:103 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:51 - Trying to load META-INF/validation.xml via user class loader
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:58 - Trying to load META-INF/validation.xml via TCCL
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:64 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+
+31-03-2019 18:08:40 DEBUG ValidationXmlParser:110 - No META-INF/validation.xml found. Using annotation based configuration only.
+
+31-03-2019 18:08:40 DEBUG DefaultTraversableResolver:103 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+
+31-03-2019 18:08:40 DEBUG DefaultTraversableResolver:114 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:163 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:185 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+
+31-03-2019 18:08:40 DEBUG ConfigurationImpl:199 - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+
+31-03-2019 18:08:40 DEBUG ValidationXmlParser:103 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:51 - Trying to load META-INF/validation.xml via user class loader
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:58 - Trying to load META-INF/validation.xml via TCCL
+
+31-03-2019 18:08:40 DEBUG ResourceLoaderHelper:64 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+
+31-03-2019 18:08:40 DEBUG ValidationXmlParser:110 - No META-INF/validation.xml found. Using annotation based configuration only.
+
